@@ -1,0 +1,28 @@
+.div1 {
+    background-color: red;
+    border: solid;
+    margin-top: 10px;
+    padding-bottom: 30px;
+
+}
+#pdiv {
+    display: flex;
+}
+#div2 {
+    background-color: yellow;
+    border: solid;
+    margin-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 600px;
+}
+#div3 {
+    background-color: yellow;
+    border: solid;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 200px;
+    padding-bottom: 30px;
+    padding-right: 34px;
+    padding-left: 600px;
+}
+
