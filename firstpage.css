@@ -55,27 +55,35 @@
     padding-left: 8px;
     padding-right: 514px;
 }
-/* 
+#parentdiv2 {
+    display: flex;
+}
+
 #div7 {
-    background-color: rgb(90, 156, 151);
+    background-color: rgb(226, 93, 225);
     border: solid;
-    margin-top: 10px 200px ;
-    padding-bottom: 00px 34px 500px 30px;
+    margin-top: 10px;
+    padding-top: 40px;
+    padding-right: 100px; 
 }
 #div8 {
-    background-color: rgb(90, 156, 151);
+    background-color: rgb(226, 93, 225);
     border: solid;
-    margin-top: 10px 200px ;
-    padding-bottom: 00px 34px 500px 30px;
+    margin-top: 10px;
+    margin-left: 8px;
+    padding-top: 10px;
+    padding-right: 100px;
 }
 #div9 {
-    background-color: rgb(90, 156, 151);
+    background-color: rgb(226 93 225);
     border: solid;
-    margin-top: 10px 200px ;
-    padding-bottom: 00px 34px 500px 30px;
+    margin-top: 10px;
+    margin-left: 8px;
+    padding-top: 10px;
+    padding-right: 1025px;
 }
 
 
 
 
- */
+
