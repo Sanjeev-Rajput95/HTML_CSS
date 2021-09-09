@@ -8,6 +8,7 @@
 #pdiv {
     display: flex;
 }
+
 #div2 {
     background-color: yellow;
     border: solid;
@@ -26,3 +27,55 @@
     padding-left: 600px;
 }
 
+#parentdiv1 {
+    display: flex;
+}
+#div4 {
+    background-color: #380b13da;
+    border: solid;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-top: 25px;
+    padding-left: 300px;
+}
+#div5 {
+    background-color: rgb(226 93 225 / 49%);
+    border: solid;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-right: 400px;
+    
+}
+#div6 {
+    background-color: rgb(90 121 156);
+    border: solid;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-left: 8px;
+    padding-right: 514px;
+}
+/* 
+#div7 {
+    background-color: rgb(90, 156, 151);
+    border: solid;
+    margin-top: 10px 200px ;
+    padding-bottom: 00px 34px 500px 30px;
+}
+#div8 {
+    background-color: rgb(90, 156, 151);
+    border: solid;
+    margin-top: 10px 200px ;
+    padding-bottom: 00px 34px 500px 30px;
+}
+#div9 {
+    background-color: rgb(90, 156, 151);
+    border: solid;
+    margin-top: 10px 200px ;
+    padding-bottom: 00px 34px 500px 30px;
+}
+
+
+
+
+ */
